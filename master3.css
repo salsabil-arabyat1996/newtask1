@@ -1,0 +1,17 @@
+body{
+    background-color: beige;
+}
+.phraghraph1{
+    margin-bottom: 1cm;
+   
+}
+.phraghraph2{
+    
+    border-collapse: separate;
+    border-spacing: 15px 15px;
+    margin-bottom: 1cm;
+}
+.phraghraph3{
+
+    border: 2px dotted rgb(255, 0, 0);
+}

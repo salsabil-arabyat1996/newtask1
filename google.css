@@ -1,0 +1,134 @@
+
+#navdiv{
+    display:flex;
+    width:17%;
+    margin-left: 82%;
+    justify-content: space-around;
+    margin-top: 1%;
+    height:35px;
+   
+  }
+    nav img{
+    margin-top: 5px;
+  }
+  
+  #googleimg{
+    margin-top: 100px;
+  }
+
+  a{
+    margin-top: 8px;
+    text-decoration: none;
+  }
+  
+  button{
+    border-radius: 3px;
+    height:100%;
+    padding:5px 12px;
+    background-color: #4C87E1 ;
+    color:white;
+    border:none;
+  }
+  /* setting up size and border stle of search bar*/
+  #maindiv{
+  width:35%;
+  border-radius: 50px;
+  display: flex;
+  height:40px;
+  border:1px solid rgb(36, 34, 34);
+  }
+  
+  #inputspan{
+    width:80%;
+  }
+  span{
+    vertical-align: top;
+  }
+  span:first-child{
+    width:10%;
+    border-radius: 50px;
+    margin-top: 7px;
+  }
+  span:last-child{
+    width:10%;
+    border-radius: 50px;
+    margin-top: 7px;
+  }
+  
+  input{
+    height:100%;
+    width:100%;
+    border: none;
+    padding:0px;
+  }
+  
+  section{
+    display: flex;
+    margin-top: 2%;
+    width:23%;
+    justify-content: space-around;
+    margin-bottom: 2%;
+  }
+  section button{
+    padding:10px 12px;
+    background-color: lightgrey;
+    color:black;
+  }
+  
+  ul{
+    display: flex;
+    width: 30%;
+    padding-left: 0px;
+    list-style: none;
+    justify-content: space-around;
+    margin: 6px;
+  }
+  #Bottomdiv{
+    display:flex;
+    font-size: 12px;
+    margin-top: 3%;
+  }
+  .footer-left{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+  }
+  .footer-right{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+
+  }
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+    
+  }
+  #Bottomdiv span{
+    width: 50px;
+    margin-left: 31%;
+    
+        overflow: hidden;
+        background-color: #878181;
+      }
+  
+  /*When hovered*/
+  a:hover{
+    text-decoration: underline;
+  }
+  button:hover{
+    border: 1px solid gray;
+  }
+  .head-left{
+    top: 0%;
+    position: absolute;
+    display: flex;
+    width:17%;
+    margin-right: 82%;
+    justify-content: space-around;
+    margin-top: 1%;
+    height:35px;
+  }
+  h1{
+    font-size: larger;
+  }

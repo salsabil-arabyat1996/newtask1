@@ -1,0 +1,49 @@
+.meanbox{
+    display: flex;
+    justify-content:left;
+}
+.box-item{
+    width: 200px;
+    margin: 10px;
+    background-color: aliceblue;
+   
+
+}
+.box1{
+    max-height: fit-content;
+    overflow: hidden;
+
+}
+.box2{
+    max-height: fit-content;
+}
+.box3{
+    max-height: fit-content;
+}
+.box4{
+
+    height: 200px;
+    overflow-y: scroll;
+    border: 3px solid #333;
+    width: 17cm;
+    max-height: 1cm
+
+}
+.meanbox1 {
+    display: flex
+    justify-content: left;
+}
+.box5{
+    top: 6.1cm;
+   
+    max-height: fit-content;
+}
+.box6{
+     position: absolute;
+     top: 6.78cm;
+     left: 6cm;
+   
+    max-height: fit-content;
+
+
+}
